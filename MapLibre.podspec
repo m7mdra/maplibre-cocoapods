@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-      version = '5.12.2'
+      version = '5.12.1'
   s.name = 'MapLibre'
   s.version = '5.12.1'
   s.license = { :type => 'Unspecified' }
